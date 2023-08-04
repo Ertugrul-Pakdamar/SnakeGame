@@ -396,3 +396,21 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# My C++ Extras
+
+*.cpp
+*.c
+*.exe
+*.dll
+*.h
+*.props
+*.pdb
+*.lib
+*.hpp
+*.obj
+*.ilk
+*.exe.recipe
+*.log
+*.tlog
+*.
