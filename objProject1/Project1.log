@@ -1,0 +1,12 @@
+﻿  main.cpp
+G:\YazilimveTasarim\C++\SFML\Ogrenme\YilanOyunu\Proje1\proje\Project1\Project1\main.cpp(12,26): warning C4244: '=': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+G:\YazilimveTasarim\C++\SFML\Ogrenme\YilanOyunu\Proje1\proje\Project1\Project1\main.cpp(15,26): warning C4244: '=': 'int' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+  Project1.vcxproj -> G:\YazilimveTasarim\C++\SFML\Ogrenme\YilanOyunu\Proje1\bin\Project1.exe
